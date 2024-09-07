@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Sakibul Islam
-#### Programmer
+# Hi there 👋, I'm Sakibul Islam
+# Programmer
 ![Programmer](https://www.facebook.com/switch.profile)
 
-👋 Hi there! I’m Sakibul Islam, a passionate programmer and problem solver. I love diving into code and building innovative solutions that make a difference.
+A passionate programmer and problem solver. I love diving into code and building innovative solutions that make a difference.
 
 Skills: C/JAVA/C++
 
