@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Sakibul Islam
-#### Programmer
-![Programmer](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/348898711_2339912969524642_7430244924251595345_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFmE_jGXuHy6jqkJm6ei4PZiqfueCuvIxWKp-54K68jFf6-KDMkbEQrjIwOY-knjl8getolMJkLWGMcQ0o8F6gq&_nc_ohc=4-g5u52iCnUQ7kNvgFbbFD5&_nc_ht=scontent.fdac24-5.fna&oh=00_AYAwT_BO5GvJDqMwNDXIYi_WH9ZwqTzMHXJfw5l8D7nvMw&oe=66E28491)
+![](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/348898711_2339912969524642_7430244924251595345_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFmE_jGXuHy6jqkJm6ei4PZiqfueCuvIxWKp-54K68jFf6-KDMkbEQrjIwOY-knjl8getolMJkLWGMcQ0o8F6gq&_nc_ohc=4-g5u52iCnUQ7kNvgFbbFD5&_nc_ht=scontent.fdac24-5.fna&oh=00_AYAwT_BO5GvJDqMwNDXIYi_WH9ZwqTzMHXJfw5l8D7nvMw&oe=66E28491)
 
 A passionate programmer and problem solver. I love diving into code and building innovative solutions that make a difference.
 
